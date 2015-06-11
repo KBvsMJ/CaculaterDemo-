@@ -7,5 +7,6 @@ b:在你故事版上拖拽两个view和一个textfield文本框（具体请看de
    NSLog(@"每个按钮对应的tag=%ld,按钮对应的标题=%@",selectBtnIndex,btnTitleText);
 
  }];
-#3 演示图
-https://github.com/KBvsMJ/CaculaterDemo-/commit/33301883aa9aaed2c51e1037a1777a6daee62f9c
+#3 演示图：
+ ![image](https://github.com/KBvsMJ/CaculaterDemo-/commit/33301883aa9aaed2c51e1037a1777a6daee62f9c)
+
