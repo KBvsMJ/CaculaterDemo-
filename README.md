@@ -8,5 +8,5 @@ b:在你故事版上拖拽两个view和一个textfield文本框（具体请看de
 
  }];
 #3 演示图：
- ![image](https://github.com/KBvsMJ/CaculaterDemo-/demoGif/1.gif)
+ ![image](https://github.com/KBvsMJ/CaculaterDemo-/blob/33301883aa9aaed2c51e1037a1777a6daee62f9c/demoGif/1.gif)
 
